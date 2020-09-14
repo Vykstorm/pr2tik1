@@ -1,14 +1,10 @@
-## Hi 👋 I am Pratik! 
+## Hi, I am Víctor
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+I am a programmer searching for a full-stack, backend or frontend Python developer.
+- 😊 I want to contribute to any interesting open-source project out there.
+- I enjoy competitive programming and solving complex problems related to algorithm and data structures implementation.
+- I have a strong base for the C++ and the Python languages, but I always expanding my knowledge about them.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
