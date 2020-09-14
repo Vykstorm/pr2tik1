@@ -1,9 +1,13 @@
 ## Hi, I am Víctor
 
-I am a programmer searching for a full-stack, backend or frontend Python developer.
-- 😊 I want to contribute to any interesting open-source project out there.
-- I enjoy competitive programming and solving complex problems related to algorithm and data structures implementation.
-- I have a strong base for the C++ and the Python languages, but I always expanding my knowledge about them.
+Im a programmer with a strong base on Python and C++ languages willing for:
+- Working as a full-stack, backend or frontend Python developer.
+- Contributing to any interesting open-source project out there.
+
+Also enrolled in:
+- Competitive programming, solving complex problems related to algorithm and data structures implementation.
+- Learning more about artificial intelligence, specially in the field of deep learning. One of my current obssesions is the violin,
+so I would like to create in the future some AI capable of composing whole sonatas for this instrument, with the same maestry as Vivaldi or Tartini.
 
 
 <details open>
