@@ -29,7 +29,6 @@ Also enrolled in:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Vykstorm&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vykstorm&hide=C, php&theme=tokyonight&layout=compact">
 </p>
 
 </details>
