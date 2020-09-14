@@ -15,7 +15,6 @@ so I would like to create in the future some AI capable of composing whole sonat
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vykstorm/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/stradivarius_nostalgico/)
 [![Visits Badge](https://badges.pufler.dev/Vykstorm?style=for-the-badge)](https://github.com/Vykstorm)
@@ -32,8 +31,8 @@ so I would like to create in the future some AI capable of composing whole sonat
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Vykstorm&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vykstorm&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>
