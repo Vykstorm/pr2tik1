@@ -32,7 +32,7 @@ so I would like to create in the future some AI capable of composing whole sonat
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Vykstorm&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vykstorm&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vykstorm&hide=C, php, makefile&theme=tokyonight">
 </p>
 
 </details>
