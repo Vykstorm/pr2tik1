@@ -6,9 +6,7 @@ Im a programmer with a strong base on Python and C++ languages willing for:
 
 Also enrolled in:
 - Competitive programming, solving complex problems related to algorithm and data structures implementation.
-- Learning more about artificial intelligence, specially in the field of deep learning. One of my current obssesions is the violin,
-so I would like to create in the future some AI capable of composing whole sonatas for this instrument, with the same maestry as Vivaldi or Tartini.
-
+- Learning more about artificial intelligence. Currently searching and investigating interesting machine learning applications to music composition.
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
