@@ -6,7 +6,7 @@ Im a programmer with a strong base on Python and C++ languages willing for:
 
 Also enrolled in:
 - Competitive programming, solving complex problems related to algorithm and data structures implementation.
-- Learning more about artificial intelligence. Currently searching and investigating interesting machine learning applications to music composition.
+- Learning more about artificial intelligence. Currently searching and investigating interesting machine learning applications on music composition.
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
