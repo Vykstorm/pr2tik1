@@ -29,7 +29,7 @@ Also enrolled in:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Vykstorm&show_icons=true&theme=tokyonight&line_height=27">
- <a href="https://stackexchange.com/users/12306858"><img src="https://stackexchange.com/users/flair/12306858.png" width="208" height="58" alt="profile for Victor Ruiz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Victor Ruiz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+ <a href="https://stackexchange.com/users/12306858?theme=dark"><img src="https://stackexchange.com/users/flair/12306858.png" width="208" height="58" alt="profile for Victor Ruiz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Victor Ruiz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 </p>
 
