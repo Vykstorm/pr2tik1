@@ -15,8 +15,7 @@ Also enrolled in:
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vykstorm/)
 [![Visits Badge](https://badges.pufler.dev/Vykstorm?style=for-the-badge)](https://github.com/Vykstorm)
-<a href="https://stackoverflow.com/users/8979646/victor-ruiz?theme=dark"><img src="https://stackoverflow.com/users/flair/8979646.png" width="208" height="58" alt="profile for Victor Ruiz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Victor Ruiz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
+<a href="https://stackexchange.com/users/12306858"><img src="https://stackexchange.com/users/flair/12306858.png" width="208" height="58" alt="profile for Victor Ruiz on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Victor Ruiz on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </p>
 
 </details>
