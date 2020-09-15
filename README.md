@@ -38,13 +38,22 @@ Also enrolled in:
 
 
 <details open> 
- <summary><b>Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
+ <summary><b>My personal projects:</b> :bookmark_tabs:</summary>
+ <p>
+  Implementation of an image compression algorithm by regions using different image processing tecniques, written in Matlab/Octave.
+  </p>
+  
+  <p>
+ 2
+  </p>
+  
+  <p>
  
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0" alt="Recent Article 0"></a>
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1" alt="Recent Article 1"></a>
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2" alt="Recent Article 2"></a>
+  </p>
+  
+  <p>
+ 
+  </p>
 
 </details>
 
