@@ -23,7 +23,7 @@ Also enrolled in:
 ---
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> 😇 <b>My Github & Stackoverflow Stats</b>: </summary>
 
 <br>
 
