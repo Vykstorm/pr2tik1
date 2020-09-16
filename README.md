@@ -48,7 +48,7 @@ Also enrolled in:
  <li>
   <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave</a>
   </li>
-
+  <img src="https://raw.githubusercontent.com/Vykstorm/ROI_compression/master/images/craneo.jpg"></img>
   <li>
   <a href="https://github.com/Vykstorm/Fractals-Godot">Small interactive simulation developed with godot which renders different fractal Mandelbrot sets.</a>
   <img src="https://raw.githubusercontent.com/Vykstorm/Fractals-Godot/master/screenshots/screenshot2.png"></img>
