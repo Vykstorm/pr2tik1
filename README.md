@@ -40,15 +40,15 @@ Also enrolled in:
 <details open> 
  <summary><b>My personal projects:</b> :bookmark_tabs:</summary>
  <p>
-  Implementation of an image compression algorithm by regions using different image processing tecniques, written in Matlab/Octave.
+  Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave.
   </p>
   
   <p>
- 2
+  Small interactive simulation developed with godot which renders different fractal Mandelbrot sets.
   </p>
   
   <p>
- 
+  
   </p>
   
   <p>
