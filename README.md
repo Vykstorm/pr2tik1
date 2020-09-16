@@ -63,7 +63,7 @@ Also enrolled in:
   </li>
 
   <li>
-  <a href="https://github.com/Vykstorm/ProAlg">Implementation of a compiler for the ProAlg language in C using bison and flex libraries.</a>
+  <a href="https://github.com/Vykstorm/ProAlg">Implementation of a compiler for the ProAlg language written in C using bison and flex libraries.</a>
   </li>
 </ul>
 </details>
