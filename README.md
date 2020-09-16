@@ -39,22 +39,23 @@ Also enrolled in:
 
 <details open> 
  <summary><b>My personal projects:</b> :bookmark_tabs:</summary>
- <p>
-  Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave.
-  </p>
+ <ul>
+ <li>
+  <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave</a>
+  </li>
   
-  <p>
-  Small interactive simulation developed with godot which renders different fractal Mandelbrot sets.
-  </p>
+  <li>
+  <a href="https://github.com/Vykstorm/Fractals-Godot">Small interactive simulation developed with godot which renders different fractal Mandelbrot sets.</a>
+  </li>
   
-  <p>
+  <li>
+  <a href="https://github.com/Vykstorm/CaptchaDL"> Program to recognize captchas using convolutional neuronal networks (CNN) and support vector machines (SVM). Developed with Python, numpy, sklearn, keras and OpenCV.</a>
+  </li>
   
-  </p>
-  
-  <p>
- 
-  </p>
-
+  <li>
+  <a href="https://github.com/Vykstorm/ProAlg">Implementation of a compiler for the ProAlg language in C using bison and flex libraries.</a>
+  </li>
+</ul>
 </details>
 
 ---
