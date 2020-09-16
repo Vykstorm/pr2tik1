@@ -42,21 +42,24 @@ Also enrolled in:
  <summary><b>My personal projects</b> </summary>
  <ul>
  <li>
-   <a href="https://github.com/Vykstorm/pylib3d-mec-ginac">My end of degree project. An interface of the C++ standalone library "lib_3d_mec_ginac" to Python, used as a tool to model and analyze mechanical systems. It provides also a graphical interface to interact and visualize the modelled mechanisms.</a>
+   <a href="https://github.com/Vykstorm/pylib3d-mec-ginac">My end of degree project. An interface of the C++ standalone library "lib_3d_mec_ginac" to Python, used as a tool to model and analyze mechanical systems. It provides also a graphical interface to interact and visualize the modelled mechanisms.
   <img src="https://raw.githubusercontent.com/Vykstorm/pylib3d-mec-ginac/master/docs/images/framework.png"></img>
+  </a>
  </li>
  <li>
-  <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave</a>
+  <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave
   </li>
   <img src="https://raw.githubusercontent.com/Vykstorm/ROI_compression/master/images/craneo.jpg"></img>
+  </a>
   <li>
-  <a href="https://github.com/Vykstorm/Fractals-Godot">Small interactive simulation developed with godot which renders different fractal Mandelbrot sets.</a>
+  <a href="https://github.com/Vykstorm/Fractals-Godot">Small interactive simulation developed with godot which renders different fractal Mandelbrot sets.
   <img src="https://raw.githubusercontent.com/Vykstorm/Fractals-Godot/master/screenshots/screenshot2.png"></img>
-  </li>
+  </a></li>
 
   <li>
-  <a href="https://github.com/Vykstorm/CaptchaDL"> Program to recognize captchas using convolutional neuronal networks (CNN) and support vector machines (SVM). Developed with Python, numpy, sklearn, keras and OpenCV.</a>
+  <a href="https://github.com/Vykstorm/CaptchaDL"> Program to recognize captchas using convolutional neuronal networks (CNN) and support vector machines (SVM). Developed with Python, numpy, sklearn, keras and OpenCV.
   <img src="https://raw.githubusercontent.com/Vykstorm/CaptchaDL/master/images/contours2.png"></img>
+  </a>
   </li>
 
   <li>
