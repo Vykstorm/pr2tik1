@@ -42,6 +42,9 @@ Also enrolled in:
  <summary><b>My personal projects</b> </summary>
  <ul>
  <li>
+   My end of degree project. An interface of the C++ standalone library "lib_3d_mec_ginac" to Python, used as a tool to model and analyze mechanical systems. It provides also a graphical interface to interact and visualize the modelled mechanisms.
+ </li>
+ <li>
   <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave</a>
   </li>
   
