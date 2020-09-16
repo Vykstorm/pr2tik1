@@ -23,7 +23,7 @@ Also enrolled in:
 ---
 
 <details open>
- <summary> 😇 <b>My Github & Stackoverflow Stats</b>: </summary>
+ <summary> 😇 <b>My Github & Stackoverflow Stats</b> </summary>
 
 <br>
 
@@ -38,7 +38,7 @@ Also enrolled in:
 
 
 <details open> 
- <summary><b>My personal projects:</b> :bookmark_tabs:</summary>
+ <summary><b>My personal projects</b> </summary>
  <ul>
  <li>
   <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave</a>
