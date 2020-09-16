@@ -12,7 +12,7 @@ Also enrolled in:
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
- 
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vykstorm/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/stradivarius_nostalgico/)
 
@@ -38,24 +38,27 @@ Also enrolled in:
 
 ---
 
-<details open> 
+<details open>
  <summary><b>My personal projects</b> </summary>
  <ul>
  <li>
    <a href="https://github.com/Vykstorm/pylib3d-mec-ginac">My end of degree project. An interface of the C++ standalone library "lib_3d_mec_ginac" to Python, used as a tool to model and analyze mechanical systems. It provides also a graphical interface to interact and visualize the modelled mechanisms.</a>
+  <img src="https://raw.githubusercontent.com/Vykstorm/pylib3d-mec-ginac/master/docs/images/framework.png"></img>
  </li>
  <li>
   <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave</a>
   </li>
-  
+
   <li>
   <a href="https://github.com/Vykstorm/Fractals-Godot">Small interactive simulation developed with godot which renders different fractal Mandelbrot sets.</a>
+  <img src="https://raw.githubusercontent.com/Vykstorm/Fractals-Godot/master/screenshots/screenshot2.png"></img>
   </li>
-  
+
   <li>
   <a href="https://github.com/Vykstorm/CaptchaDL"> Program to recognize captchas using convolutional neuronal networks (CNN) and support vector machines (SVM). Developed with Python, numpy, sklearn, keras and OpenCV.</a>
+  <img src="https://raw.githubusercontent.com/Vykstorm/CaptchaDL/master/images/contours2.png"></img>
   </li>
-  
+
   <li>
   <a href="https://github.com/Vykstorm/ProAlg">Implementation of a compiler for the ProAlg language in C using bison and flex libraries.</a>
   </li>
