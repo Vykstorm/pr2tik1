@@ -47,7 +47,7 @@ Also enrolled in:
   </a>
  </li>
  <li>
-  <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions using different algorithms and image processing tecniques, written in Matlab/Octave
+  <a href="https://github.com/Vykstorm/ROI_compression">Implementation of an image compression algorithm by regions written in Matlab/Octave
   </li>
   <img src="https://raw.githubusercontent.com/Vykstorm/ROI_compression/master/images/craneo.jpg"></img>
   </a>
